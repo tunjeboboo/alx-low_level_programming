@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * int get_bit - returns the value of a bit at a given index
+ * get_bit - returns the value of a bit at a given index
  * owned by asofeyeje
  * @n: unsigned long int
  * @index: index of the bit unsigned int
